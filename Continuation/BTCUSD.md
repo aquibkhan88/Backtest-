@@ -57,12 +57,12 @@ Conformation type
 1.  Engulfing - no
 2. choch - Yes
 3. mss - yes (same = choch)
-4. sss - no
+4. sss - yes
 4h/1h last poi in
 - engulfing - 
 - choch - no
 - mss - no
-- sss - 
+- sss - yes
 Poi penetration - 25%
 Fail or work - work
 Mistake - 
@@ -82,12 +82,12 @@ Conformation type
 1.  Engulfing - 
 2. choch - 
 3. mss - Yes
-4. sss - 
+4. sss - yes
 4h/1h last poi in
 - engulfing - 
 - choch - 
 - mss - yes
-- sss - 
+- sss - yes
 Poi penetration - >100%
 Fail or work - fail
 Mistake - 
@@ -95,7 +95,7 @@ Explanation - opposite side bos me wick de diya tha
 If engulfing - 
 If choch - 
 If mss - mss me jo sams tarf bos hota hai fir opposite tarf bos hota hai, to usme same tarf bos me wick thi bas, pura body wala mss nahi tha
-If sss - 
+If sss - but wick wala sss hai
 
 
 
@@ -207,12 +207,12 @@ Conformation type
 1.  Engulfing - Yes
 2. choch - 
 3. mss - yes
-4. sss - 
+4. sss - yes
 4h/1h last poi in
 - engulfing - yes
 - choch - 
 - mss - yes
-- sss - 
+- sss - yes
 Poi penetration - >50%
 Fail or work - fail
 Mistake - 
@@ -233,12 +233,12 @@ Conformation type
 1.  Engulfing - yes
 2. choch - 
 3. mss - Yes
-4. sss - 
+4. sss - yes
 4h/1h last poi in
 - engulfing - no
 - choch - 
 - mss - no
-- sss - 
+- sss - yes
 Poi penetration - 75%
 Fail or work - work
 Mistake - 
@@ -258,12 +258,12 @@ Conformation type
 1.  Engulfing - yes but Thodi si compressed thi
 2. choch - 
 3. mss - 
-4. sss - yes
+4. sss - 
 4h/1h last poi in
 - engulfing - no
 - choch - 
 - mss - 
-- sss - no
+- sss - 
 Poi penetration - 20%
 Fail or work - fail
 Mistake - 
@@ -361,12 +361,12 @@ Conformation type
 1.  Engulfing - yes
 2. choch - Yes
 3. mss - yes
-4. sss - 
+4. sss - yes
 4h/1h last poi in
 - engulfing - yes
 - choch - yes
 - mss - yes
-- sss - 
+- sss - yes
 Poi penetration - 100%
 Fail or work - work
 Mistake - 
@@ -383,3 +383,4 @@ If sss -
 
 Imp note - 
 - jab engulfing/choch/mss nahi aaye ya fir weak the tab bhi sss consider kiya hu, kyu ki sss to har poi par aayega ki jo kam kar jayega, imp ye hai ki yaha koyi bhi conformation nahi aayi waha sss aaya to kya hua
+- sss me thoda acha sa pull back hona 1 2 choti se candle ka nahi chalega
