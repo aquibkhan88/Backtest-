@@ -62,7 +62,7 @@ Conformation type
 - engulfing - 
 - choch - no
 - mss - no
-- sss - yes
+- sss - no
 Poi penetration - 25%
 Fail or work - work
 Mistake - 
@@ -238,7 +238,7 @@ Conformation type
 - engulfing - no
 - choch - 
 - mss - no
-- sss - yes
+- sss - no
 Poi penetration - 75%
 Fail or work - work
 Mistake - 
