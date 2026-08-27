@@ -169,13 +169,37 @@ Mistake -
 Explanation - 
 If engulfing - 
 If choch - 
+If mss - mss bas ek candle ka pull back tha is liye sss bhi conformation liya
+If sss - 
+
+
+
+**Trade** 8- 
+Poi number - 6
+Poi timeframe - 1D
+Poi Size - large
+Conformation type
+1.  Engulfing - 
+2. choch - yes
+3. mss - Yes
+4. sss - 
+4h/1h last poi in
+- engulfing - 
+- choch - no
+- mss - no
+- sss - 
+Poi penetration - 25%
+Fail or work - fail
+Mistake - 
+Explanation - 
+If engulfing - 
+If choch - 
 If mss - 
 If sss - 
 
 
 
-
-**Trade** 8- 
+**Trade** 9- 
 Poi number - 6
 Poi timeframe - 1D
 Poi Size - large
@@ -201,7 +225,7 @@ If sss -
 
 
 
-**Trade** 9- 
+**Trade** 10- 
 Poi number - 7
 Poi timeframe - 1D
 Poi Size - Large
@@ -226,7 +250,7 @@ If sss -
 
 
 
-**Trade** 10- 
+**Trade** 11- 
 Poi number - 8
 Poi timeframe - 1D
 Poi Size - Large
@@ -252,7 +276,7 @@ If sss -
 
 
 
-**Trade** 11- 
+**Trade** 12- 
 Poi number - 8
 Poi timeframe - 1D
 Poi Size - large
@@ -267,7 +291,7 @@ Conformation type
 - mss - yes
 - sss - yes
 Poi penetration - 100%
-Fail or work - agar sss se entry leta to 1:2 mil jata, agar mss se leta to kuch bhi nahi milta
+Fail or work - agar sss se entry leta to 1:2 mil jata matlab yes, agar mss se leta to kuch bhi nahi milta matlab no
 Mistake - 
 Explanation - 
 If engulfing - 
@@ -278,7 +302,7 @@ If sss -
 
 
 
-**Trade** 12- 
+**Trade** 13- 
 Poi number - 9
 Poi timeframe - 1D
 Poi Size - large
@@ -304,7 +328,7 @@ If sss -
 
 
 
-**Trade** 13- 
+**Trade** 14- 
 Poi number - 9
 Poi timeframe - 1D
 Poi Size - large
@@ -312,7 +336,7 @@ Conformation type
 1.  Engulfing - 
 2. choch - 
 3. mss - Yes
-4. sss - yes
+4. sss - Yes
 4h/1h last poi in
 - engulfing - 
 - choch - 
@@ -329,7 +353,7 @@ If sss -
 
 
 
-**Trade** 14- 
+**Trade** 15- 
 Poi number - 9
 Poi timeframe - 1D
 Poi Size - large
@@ -337,12 +361,12 @@ Conformation type
 1.  Engulfing - yes
 2. choch - Yes
 3. mss - yes
-4. sss - yes
+4. sss - 
 4h/1h last poi in
 - engulfing - yes
 - choch - yes
 - mss - yes
-- sss - yes
+- sss - 
 Poi penetration - 100%
 Fail or work - work
 Mistake - 
@@ -351,3 +375,11 @@ If engulfing -
 If choch - 
 If mss - 
 If sss - 
+
+
+
+
+
+
+Imp note - 
+- jab engulfing/choch/mss nahi aaye ya fir weak the tab bhi sss consider kiya hu, kyu ki sss to har poi par aayega ki jo kam kar jayega, imp ye hai ki yaha koyi bhi conformation nahi aayi waha sss aaya to kya hua
