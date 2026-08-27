@@ -4,3 +4,5 @@
 4. Continuation me agar wick cross kar rahi hai tab bhi choch hai
 5. Jab tak body closing nahi hoti tab tak bos nahi manna hai
 6. Jab opposite side bos me wick de de raha to same side bos nahi kar raha fir thoda retrace de kar ya bina retrace kiye opposite side chale ja raha
+7. 1D ke poi me agar 4h or 1h ke sare poi tap karke conformation deta hai to zada change hai kam karne ke
+8. (Dekhna hai 2 bar kam kiya hai) jab tak kisi 1D ke poi me last poi 4h/1h ka tap nahi ho jata tab tak wo poi ke kam karne ke chance hai 
