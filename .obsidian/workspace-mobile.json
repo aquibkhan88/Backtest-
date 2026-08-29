@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuation/BTCUSD.md",
+                "file": "Reversal/BTCUSD.md",
                 "mode": "source",
                 "source": false
               },
@@ -294,15 +294,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "089d11d2fa2a236e",
+  "active": "887006705b0f86c5",
   "lastOpenFiles": [
-    "Continuation/BTCUSD.md",
-    "Trace/BTCUSD.md",
-    "Trace",
-    "Continuation/Rules.md",
-    "Template/Template.md",
-    "Reversal/BTCUSD.md",
     "Reversal/Rules.md",
+    "Reversal/BTCUSD.md",
+    "Template/Template.md",
+    "Continuation/Rules.md",
+    "Trace/BTCUSD.md",
+    "Continuation/BTCUSD.md",
+    "Trace",
     "Continuation/BTCUSD 3.md",
     "Continuation/BTCUSD 2.md",
     "Template",

@@ -382,5 +382,5 @@ If sss -
 
 
 Imp note - 
-- jab engulfing/choch/mss nahi aaye ya fir weak the tab bhi sss consider kiya hu, kyu ki sss to har poi par aayega ki jo kam kar jayega, imp ye hai ki yaha koyi bhi conformation nahi aayi waha sss aaya to kya hua
+- sss ko ek alag entry conformation ki tarh use kiya hu
 - sss me thoda acha sa pull back hona 1 2 choti se candle ka nahi chalega

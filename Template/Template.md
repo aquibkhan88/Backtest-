@@ -1,21 +1,17 @@
 Continuation
 
 **Trade** 1- 
+Poi number -  
 Poi timeframe - 1D
-Poi Size - Small/Medium/large
+Poi Size - 
 Conformation type
 1.  Engulfing - 
 2. choch - 
 3. mss - 
 4. sss - 
-4h/1h last poi in
-- engulfing - 
-- choch - 
-- mss - 
-- sss - 
+4h/1h last poi tap - 
 Poi penetration - 
 Fail or work - 
-Mistake - 
 Explanation - 
 If engulfing - 
 If choch - 
@@ -44,16 +40,16 @@ Reversal
 - Poi number - 
 - Poi timeframe - 1D
 - Leg - Same/different
-- Poi Size - small/medium/large
-- Conformation timeframe - 1h/15m
-- Conformation type - choch/bos
-- 4h Body - 
+- Poi Size - 
+- Conformation timeframe - 4h/1h/15m
+- Conformation type - engulfing/choch/mss/sss/bos
 - Poi penetration - 
-- Reach 4h/1h last poi - 
+- tap 4h/1h last poi - 
 - Fail or work - 
-- Mistake - 
 - Explanation -
+- If engulfing - 
 - If choch - 
+- If Mss - 
 - If bos - 
 
  
