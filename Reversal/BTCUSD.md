@@ -200,4 +200,141 @@
 - If Mss - Same as choch
 - If bos - Same as choch
 
+
+
+
+
+ **Trade** 13 - 
+- Poi number - 17
+- Poi timeframe - 1D
+- Leg - different
+- Poi Size - medium
+- Conformation type - sss, 
+- Poi penetration - 50%
+- tap 4h/1h last poi - tap
+- Fail or work - work
+- Explanation -
+- If engulfing - 
+- If choch - choch bohot dur tha, is liye choch mana nahi
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 14 - 
+- Poi number - 18
+- Poi timeframe - 1D
+- Leg - different
+- Poi Size - Large
+- Conformation type - choch, Mss, sss, bos
+- Poi penetration - >25%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 15 - 
+- Poi number - 19
+- Poi timeframe - 1D
+- Leg - different
+- Poi Size - large
+- Conformation type - Mss, 
+- Poi penetration - 25%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 2 bar mss kiya lekin dono bar jo same side bos hota hai waha bos tha or opposite side bos  me ek bar body thi ek bae wick
+- If bos - 
+
+
+
+**Trade** 16 - 
+- Poi number - 20
+- Poi timeframe - 1D
+- Leg - Same
+- Poi Size - medium
+- Conformation type - engulfing, Choch, mss, bos, sss
+- Poi penetration - 25%
+- tap 4h/1h last poi - Yes
+- Fail or work - work
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 17 - 
+- Poi number - 21
+- Poi timeframe - 1D
+- Leg - Same
+- Poi Size - large
+- Conformation type - internal + engulfing, mss, , choch, bos
+- Poi penetration - 90%
+- tap 4h/1h last poi - Yes
+- Fail or work - work
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 18 - 
+- Poi number - 22
+- Poi timeframe - 1D
+- Leg - different
+- Poi Size - large
+- Conformation type - sss, Choch
+- Poi penetration - 90%
+- tap 4h/1h last poi - no
+- Fail or work - work
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 19 - 
+- Poi number - 23
+- Poi timeframe - 1D
+- Leg - different
+- Poi Size - small
+- Conformation type - internal+engulfing, choch, mss, bos, sss
+- Poi penetration - 50%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Explanation - ek poi me last 4h/1h candle tap nahi kiya tha, to usme jab last candle tap kiya uske bas move aaya hai, 
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+**Trade** 20 - 
+- Poi number - 24
+- Poi timeframe - 1D
+- Leg - Same
+- Poi Size - Medium
+- Conformation type - choch, mss
+- Poi penetration - 40%
+- tap 4h/1h last poi - Yes
+- Fail or work - fail
+- Explanation -
+- If engulfing - 
+- If choch - wick closing thi
+- If Mss - same as choch
+- If bos - 
+
  

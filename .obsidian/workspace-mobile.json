@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Reversal/BTCUSD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "BTCUSD"
             }
           },
           {
@@ -133,8 +133,7 @@
               "title": "BTCUSD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,7 +293,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "887006705b0f86c5",
+  "active": "40e63082123ceb30",
   "lastOpenFiles": [
     "Reversal/Rules.md",
     "Reversal/BTCUSD.md",
