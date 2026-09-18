@@ -9,13 +9,51 @@
 
 
 **Trade** 1 - 
-- Poi No. - 
-- Direction - 
-- 1D Poi direction - 
-- Poi Size - 
-- Confirmation timeframe - 
-- Conformation type - 
-- Poi penetration - 
-- tap 1h/15m last poi - 
-- Fail or work - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - small
+- Confirmation timeframe - 1h
+- Conformation type - engulfing
+- Poi penetration - >100%
+- tap 1h/15m last poi - yes
+- Fail or work - fail
+- Explanation - engulfing ek mother candle ke andar bani thi
+
+
+
+**Trade** 2 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - small
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, sss
+- Poi penetration - >100%
+- tap 1h/15m last poi - yes
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 3 - 
+- Direction - opposite
+- 1D Poi direction - Same
+- Poi Size - medium
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, mss
+- Poi penetration - 100%
+- tap 1h/15m last poi - yes
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 4 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - Medium
+- Confirmation timeframe - 1h
+- Conformation type - engulfing
+- Poi penetration - 50%
+- tap 1h/15m last poi - No
+- Fail or work - fail
 - Explanation -
