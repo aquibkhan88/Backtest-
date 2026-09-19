@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4h Poi Backtest/BTCUSD.md",
+                "file": "4h Poi Backtest/Trades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BTCUSD"
+              "title": "Trades"
             }
           },
           {
@@ -334,7 +334,7 @@
   "active": "40e63082123ceb30",
   "lastOpenFiles": [
     "1D Poi Backtest/BTCUSD Reversal.md",
-    "4h Poi Backtest/BTCUSD.md",
+    "4h Poi Backtest/Trades.md",
     "Rules 4h",
     "4h Poi Backtest",
     "Trace/BTCUSD.md",

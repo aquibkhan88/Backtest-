@@ -219,3 +219,37 @@
 - Fail or work - work
 - Explanation -
 - if engulfing - internal+engulfing thi
+
+
+
+
+
+
+
+# GBPJPY
+
+
+**Trade** 1 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, sss
+- Poi penetration - 40%
+- tap 1h/15m last poi - 
+- Fail or work - work
+- Explanation -
+- if engulfing- engulfing ek badi si mother candle me thi, jiske bahar bas engulfing ki wick thi
+
+
+
+**Trade** 2 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - medium
+- Confirmation timeframe - 15m
+- Conformation type - sss, mss
+- Poi penetration - 30%
+- tap 1h/15m last poi - yes
+- Fail or work - Work
+- Explanation -
