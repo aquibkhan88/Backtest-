@@ -159,7 +159,7 @@
 # CADCHF
 
 
-**Trade** 1 - 
+**Trade** 12 - 
 - Direction - Continuation
 - 1D Poi direction - same
 - Poi Size - large
@@ -171,7 +171,7 @@
 - Explanation -
 
 
-**Trade** 2 - 
+**Trade** 13 - 
 - Direction - continuation
 - 1D Poi direction - Same
 - Poi Size - Medium
@@ -183,7 +183,7 @@
 - Explanation - bos ke bad retracement tha 1d ke poi ko tap karne ke liye
 
 
-**Trade** 3 - 
+**Trade** 14 - 
 - Direction - continuation
 - 1D Poi direction - same
 - Poi Size - medium
@@ -196,7 +196,7 @@
 - if engulfing - engulfing thodi si compressed thi
 
 
-**Trade** 4 - 
+**Trade** 15 - 
 - Direction - continuation
 - 1D Poi direction - same
 - Poi Size - medium
@@ -208,7 +208,7 @@
 - Explanation -
 
 
-**Trade** 5 - 
+**Trade** 16- 
 - Direction - continuation
 - 1D Poi direction - same
 - Poi Size - large
@@ -229,7 +229,7 @@
 # GBPJPY
 
 
-**Trade** 1 - 
+**Trade** 17- 
 - Direction - continuation
 - 1D Poi direction - same
 - Poi Size - large
@@ -243,7 +243,7 @@
 
 
 
-**Trade** 2 - 
+**Trade** 18 - 
 - Direction - continuation
 - 1D Poi direction - same
 - Poi Size - medium
