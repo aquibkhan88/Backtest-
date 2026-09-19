@@ -57,3 +57,91 @@
 - tap 1h/15m last poi - No
 - Fail or work - fail
 - Explanation -
+
+
+**Trade** 5 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - Medium
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, mss
+- Poi penetration - 100%
+- tap 1h/15m last poi - yes
+- Fail or work - work
+- Explanation -
+- if engulfing - engulfing thodi compressed thi
+
+
+
+**Trade** 6 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - Medium
+- Confirmation timeframe - 1h
+- Conformation type - engulfing
+- Poi penetration - 95%
+- tap 1h/15m last poi - yes
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 7 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 15m
+- Conformation type - sss
+- Poi penetration - 50%
+- tap 1h/15m last poi - no
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 8 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - engulfing
+- Poi penetration - 100%
+- tap 1h/15m last poi - yes
+- Fail or work - fail
+- Explanation -
+- if engulfing - internal+ engulfing thi
+
+
+**Trade** 9 - 
+- Direction - opposite
+- 1D Poi direction - opposite
+- Poi Size - Large
+- Confirmation timeframe - 15m
+- Conformation type - mss
+- Poi penetration - 45%
+- tap 1h/15m last poi - yes
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 10 - 
+- Direction - opposite
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 15m
+- Conformation type - sss
+- Poi penetration - 50%
+- tap 1h/15m last poi - no poi
+- Fail or work - fail
+- Explanation -
+
+
+**Trade** 11 - 
+- Direction - opposite
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, sss, mss
+- Poi penetration - 100%
+- tap 1h/15m last poi - no poi
+- Fail or work - work
+- Explanation -
+- if engulfing - internal+engulfing thi
