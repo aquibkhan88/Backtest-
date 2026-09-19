@@ -8,6 +8,11 @@
 - continuation timeframe - 1h (engulfing), 15m (sss, mss)
 
 
+
+
+# BTCUSD
+
+
 **Trade** 1 - 
 - Direction - continuation
 - 1D Poi direction - same
@@ -142,6 +147,75 @@
 - Conformation type - engulfing, sss, mss
 - Poi penetration - 100%
 - tap 1h/15m last poi - no poi
+- Fail or work - work
+- Explanation -
+- if engulfing - internal+engulfing thi
+
+
+
+
+
+
+# CADCHF
+
+
+**Trade** 1 - 
+- Direction - Continuation
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 1h, 15m 
+- Conformation type - engulfing, mss, sss
+- Poi penetration - 100%
+- tap 1h/15m last poi - Yes
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 2 - 
+- Direction - continuation
+- 1D Poi direction - Same
+- Poi Size - Medium
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, sss, 
+- Poi penetration - 50%
+- tap 1h/15m last poi - no
+- Fail or work - Fail
+- Explanation - bos ke bad retracement tha 1d ke poi ko tap karne ke liye
+
+
+**Trade** 3 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - medium
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, mss
+- Poi penetration - 70%
+- tap 1h/15m last poi - yes
+- Fail or work - work
+- Explanation -
+- if engulfing - engulfing thodi si compressed thi
+
+
+**Trade** 4 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - medium
+- Confirmation timeframe - 15m
+- Conformation type - sss
+- Poi penetration - 70%
+- tap 1h/15m last poi - yes
+- Fail or work - fail
+- Explanation -
+
+
+**Trade** 5 - 
+- Direction - continuation
+- 1D Poi direction - same
+- Poi Size - large
+- Confirmation timeframe - 1h, 15m
+- Conformation type - engulfing, sss
+- Poi penetration - 90%
+- tap 1h/15m last poi - Yes
 - Fail or work - work
 - Explanation -
 - if engulfing - internal+engulfing thi
