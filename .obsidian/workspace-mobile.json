@@ -199,8 +199,7 @@
               "title": "BTCUSD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,8 +340,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -360,7 +359,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "887006705b0f86c5",
+  "active": "40e63082123ceb30",
   "lastOpenFiles": [
     "1D Low or High Sweep/Trades.md",
     "Continuation Trades/Untitled.md",
