@@ -226,3 +226,432 @@
 -  15m - sss, mss
 - Fail or work - work
 - Explanation - kafi dur tha
+
+
+**Trade** 18 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - internal+engulfing
+-  15m - sss
+- Fail or work - work
+- Explanation -
+- if sss - medium sss laga meko
+
+
+
+**Trade** 19 - 
+- Direction - Opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 20 - 
+- Direction - Continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - 
+- Confirmation
+-  1h - Engulfing
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 21- 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - engulfing
+-  15m - mss
+- Fail or work - fail
+- Explanation -
+- if mss - bos side wick thi
+
+
+**Trade** 22- 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - 
+-  15m - mss
+- Fail or work - fail
+- Explanation -
+
+
+**Trade** 23 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - Yes
+- Sweep/Swap - swal
+-  1h - 
+-  15m - sss
+- Fail or work - Fail
+- Explanation -
+- if sss - ek hi badi candle ka sss tha 
+
+
+
+**Trade** 24- 
+- Direction - Opposite
+- far same leg candle - yes
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - Engulfing
+-  15m - mss, sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 25 - 
+- Direction - Continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 26- 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - mss, sss
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 27 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - engulfing
+-  15m - mss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 28 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 29 - 
+- Direction - Opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - internal+engulfing
+-  15m - 
+- Fail or work - fail
+- Explanation -
+
+
+
+**Trade** 30 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 31 - 
+- Direction - opposite
+- far same leg candle - yes
+- mother candle - 
+- Sweep/Swap - Swal
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - fail
+- Explanation -
+- if sss - bohot dur ja kar mila or bohot bada tha
+
+
+
+**Trade** 32 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - internal+engulfing
+-  15m - sss
+- Fail or work - worK
+- Explanation -
+
+
+
+**Trade** 33 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - yes
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - fail
+- Explanation -
+- if sss - bas 2 candle ka sss tha
+
+
+
+**Trade** 34 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 35 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - Mss, sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 36 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - engulfing
+-  15m - Mss
+- Fail or work - Work
+- Explanation -
+
+
+
+**Trade** 37 - 
+- Direction - continuation
+- far same leg candle - yes
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation - 1:1.7 tak diya hai
+- if sss - sss thoda bada ho gaya tha, is liye sl bada bana
+
+
+
+**Trade** 38 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Sweep
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - fail
+- Explanation -
+
+
+
+**Trade** 39 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - mss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 40- 
+- Direction - continuation
+- far same leg candle - yes
+- mother candle - yes
+- Sweep/Swap - Sweep
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - fail
+- Explanation -
+
+
+
+**Trade** 41 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+**Trade** 42 - 
+- Direction - opposite
+- far same leg candle - yes
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - engulfing
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 43 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - internal+engulfing
+-  15m - mss, sss
+- Fail or work - worK
+- Explanation -
+
+
+
+**Trade** 44 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - fail
+- Explanation -
+
+
+**Trade** 45- 
+- Direction - Continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - 
+-  15m - mss, sss
+- Fail or work - fail
+- Explanation -
+
+
+
+
+**Trade** 46 - 
+- Direction - opposite
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - engulfing
+-  15m - sss, mss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 47 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
+
+
+
+
+**Trade** 48 - 
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - engulfing
+-  15m - mss
+- Fail or work - work
+- Explanation -
+
+
+
+**Trade** 49- 
+- Direction - continuation
+- far same leg candle - yes
+- mother candle - 
+- Sweep/Swap - Swap
+- Confirmation
+-  1h - Internal+engulfing
+-  15m - sss
+- Fail or work - fail
+- Explanation -
+- if sss - bohot chota sa tha
+
+
+
+**Trade** 50-  
+- Direction - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - swap
+- Confirmation
+-  1h - 
+-  15m - sss
+- Fail or work - work
+- Explanation -
