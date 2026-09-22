@@ -1,0 +1,4 @@
+- sss - 2 3 candle sw zada hona
+- mss - thoda acha hona
+- jaha week or daily dono ka high/low aa raha hai waha zada chance hai ki 15m fail hoga is liye waha 1h ka sss mss dekhna hai
+- week - high/low me 1h ka mss sss dekhna hai
