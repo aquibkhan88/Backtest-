@@ -157,7 +157,7 @@
 - Sweep/Swap - swap
 - Confirmation
 -  1h - 
--  15m - sss, msss
+-  15m - sss, mss
 - Fail or work - work
 - Explanation -
 
