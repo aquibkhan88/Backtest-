@@ -185,7 +185,7 @@
 - Confirmation
 -  1h - engulfing
 -  15m - mss, sss
-- Fail or work - 
+- Fail or work - na
 - Explanation - 
 - if engulfing - sl bada ho gaya tha
 - if mss - 1:1.3 tak mila
