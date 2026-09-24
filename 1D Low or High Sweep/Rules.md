@@ -2,3 +2,4 @@
 - mss - thoda acha hona
 - jaha week or daily dono ka high/low aa raha hai waha zada chance hai ki 15m fail hoga is liye waha 1h ka sss mss dekhna hai
 - week - high/low me 1h ka mss sss dekhna hai
+- jab 1D poi me daily sweep ya swap mil kar confirmation mile to bohot badhiya entry hoti hai

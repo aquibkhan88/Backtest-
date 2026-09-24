@@ -1,0 +1,22 @@
+- 1D poi me 1D sweep/swap dekhna hai or 15m confirmation se entry lena hai, chote sl ke kiye, fir 1h ki confirmation mil jae to usi trade ko lamba khich dena hai, 
+- jaruri nahi hai ki jo last 1D ki candle hai uski ka hight low dekhu 1D poi me, jitni bhi candle banegi un sabka dekh sakta hu
+- 1D sweep/swap har kahi nahi dekhna hai uski kuch conditions hai 
+      - 1D poi me
+      - 4h poi me
+      - koyi major liquidity like 1W/1M high low
+      - In conditions me opposite ya continuation kahi bhi dekh sakte hai 
+      - agar bich me kuch nahi to shrif continuation me dekhna hai (continuation matlab jaha se tap ho kar jaha ja raha hai, 4h structure ke matlab nahi hai)
+- 1D poi or 1W/1M high low me 15m ki confirmation nahi dekhna hai
+- 4h reversal nahi kar sakta shrif continuation kar sakta hai, 1D ke poi se tap ho jar 4h  agar pasme hi hai to 4h bhi kam kar sakta hai (shrif 1st 4h poi) agar 4h ke 2 poi bohot as pas hai to dono ke kam karne ke chance hai
+- 1W/1M cross hone ke bad dono side 1D ka sweep/swap dekhna hai fir hi entry lena hai, usme bhi 1D pasme hi rehna chahiye 1W/1M ke bohot dur nahi hona chahiye
+- 1D sweep/swap line ke andar hi hona chahiye ya zada dur nahi hona chahiye (15m confirmation bhi) exception- agar 1D poi me hai to 1D high low lene ke bad dur ja kar bhi kare to valid hai (bas 1D poi me hi rehna chahiye)
+- 1D me sweep/swap ki 15m ki confirmation me bhi pas ki hi chalegi esa nahi ki dur hai or usko bhi confirmation man liya (both mss, sss)
+-  1W/1M high low ko cross karne ke bad banne wali 1D ki candle ko bbi cross karke 15m par confirmation dena chahiye tabhi reversal samjhna hai
+- 1D ka poi tap karke confirmation de ya nahi bhi de par esa lage ki waha se move aa gaya hai to fir uske opposite me 1D ka sweep/swap nahi dekhna hai
+- jis bhi timeframe par breaker block dekh rahe hai usi me jaha se block tuta hai waha koyi bhi opposite color candle ya internal candle nahi hona chahiye warna wo breaker block nahi rahega
+- 4h poi continuation me thoda bhi tap ho to kam kar raha hai
+- agar kisi 1D poi ki candle me bohot badi wick hai, to isme agar peheli bar thoda uppar se tap karke move aa gaya hai to dusri bar bhi move aa sakta hai shrif wick ko ob consider karke
+- 1W/1M high low lene kar jab 1D ka high low lega to wo 1W/1M ke pas hi hona chahiye dur hua to nahi chalega, lage to 1W/1M ke andar hi hona chahiye
+- 1W/1M ka high low dur rehna chahiye, 1 candle 1D ki piche hi hai to wo nahi chalega, lekin agar 1D ki 2 candle piche hai to wo chlega
+- 1D ka high low lene ke bad 15m par confirmation milne ke bad agar uske thodi dur me 4h ka poi hai or waha bhi 15m ki confirmation mil gai to waha se reverse bhi ho sakta hai
+- agar ye sari conditions fulfill ho rahi hai to 15m me jo confirmation dekhege wo choti bhi rahe jese chota mss chota ssa to bhi chalega
